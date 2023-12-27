@@ -1,0 +1,199 @@
+.h1-list {
+    text-align: center;
+    margin-top: 50px;
+    background: rgba(191, 190, 190, 0.795);
+    width: 50%;
+    height: 50px;
+    color: rgb(91, 91, 91);
+    margin-left: 350px;
+    border-radius: 12px;
+    font-size: 30px;
+}
+
+/* Apply some general styles to the table */
+.table {
+
+    margin-top: 30px;
+    width: 70%;
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+/* Style the table header (thead) */
+.table thead {
+    background-color: #333;
+    color: #fff;
+}
+
+/* Style the table header cells (th) */
+.table th {
+    padding: 10px;
+    text-align: left;
+}
+
+/* Style the table body rows (tr) */
+.table tbody tr {
+    border-bottom: 1px solid #ccc;
+}
+
+/* Style the table data cells (td) */
+.table td {
+    padding: 10px;
+}
+
+/* Style the checkboxes */
+.table input[type="checkbox"] {
+    margin-right: 5px;
+}
+
+/* Style the select element */
+select {
+    width: 40%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+    background-color: #fff;
+}
+
+/* Style the submit button */
+input[type="submit"] {
+    display: block;
+    width: 20%;
+    padding: 10px;
+    background-color: #007bff;
+    /* Change the background color to your preference */
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+/* Style the submit button on hover */
+input[type="submit"]:hover {
+    background-color: #0056b3;
+    /* Change the hover background color to your preference */
+}
+
+/* Custom form styles */
+.my-form {
+    width: 50%;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+}
+
+.my-label {
+    font-weight: bold;
+    margin-bottom: 10px;
+    display: block;
+}
+
+.my-select {
+    width: 50%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+/* Custom table styles */
+.my-table {
+    width: 50%;
+    margin: 0 auto;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+}
+
+.my-table th {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+}
+
+.my-table td {
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+}
+
+/* Custom checkbox styles */
+.my-table input[type="checkbox"] {
+    margin-right: 5px;
+}
+
+.my-table input[type="submit"] {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.my-table input[type="submit"]:hover {
+    background-color: #0056b3;
+}
+.form-agent{
+    width: 50%;
+    margin-left: 350px;
+    margin-top: 30px;
+    background-color:  #cccccca2;
+    border-radius: 12px;
+    padding-left: 15px;
+    padding-top: 20px;
+    box-shadow: #33333398 10px 10px 10px 10px;
+}
+.inp input{
+    width: 90%;
+    height: 40px;
+    border-radius: 12px;
+    padding-left: 10px;
+}
+.inp select{
+    width: 90%;
+    height: 50px;
+    border-radius: 12px;
+    padding-left: 10px;
+}
+.inp label{
+    font-size: 20px;
+    color: #33333398;
+}
+.btn-agent{
+    text-align: center;
+    width: 200px;
+    height: 40px;
+    border-radius: 12px;
+    background-color: #33333398;
+    margin-left: 220px;
+    margin-bottom: 50px;
+    color: white;
+}
+.btn-ag{
+    margin-top: 30px;
+    margin-left: 610px;
+}
+.btn-import{
+    margin-left: 100px;
+    background-color: #0dafea98;
+    color: rgb(73, 73, 73);
+    width: 200px;
+    height: 40px;
+    border-radius: 12px;  
+}
+hr{
+    margin-top: 10px;
+}
